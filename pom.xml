@@ -52,7 +52,7 @@
 	</dependencyManagement>
 
 	<build>
-		<finalName>app</finalName>
+		<finalName>discoverysvr</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
